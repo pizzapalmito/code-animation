@@ -1,0 +1,6 @@
+interface:
+  display_name: "Code Animation"
+  short_description: "HyperFrames films and narrated real-app task guides"
+  default_prompt: "Use $code-animation to plan, produce, and verify a video or task-based app guide, reusing approved style choices and preserving the 20-second review point."
+policy:
+  allow_implicit_invocation: true
